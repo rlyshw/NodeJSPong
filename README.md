@@ -1,2 +1,0 @@
-# NodeJSPong
-webpong with nodejs?
